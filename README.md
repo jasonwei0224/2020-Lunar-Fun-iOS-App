@@ -31,7 +31,7 @@ Modifications Include:
 
 ## Screenshots
 ![Example screenshot](./multiple_screenshot.png)<br/><br/>
-[Individual Screenshots](./Screenshot)<br/>
+
 [Mock Up Demo](https://drive.google.com/file/d/1MgebUd3RM8cng_BKBV1ZoHm4med0EJ7s/view?usp=sharing)
 
 ## Technologies
